@@ -8,6 +8,50 @@
   background-color: #1a1a1a;
 }
 
+.navbar {
+  box-shadow: 2px 2px 8px 3px #ff1f5799;
+}
+
 section {
   padding-top: 5rem;
+  background-color: #333333;
+}
+
+.my-web {
+  color: #ffac42;
+}
+
+.card-body {
+  background-color: #1a1a1a;
+}
+
+.btn {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1px;
+}
+
+.my-card {
+  border-color: #ffac42;
+}
+
+.card-img-top {
+  background-color: #1a1a1a;
+  border-radius: 5px 5px 0 0;
+  padding: 20px;
+}
+
+.my-contact {
+  backdrop-filter: blur(15px);
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  resize: none;
+  box-shadow: 2px 3px 6px 4px #ffac42;
+}
+
+.form-label {
+  font-weight: bold;
 }
